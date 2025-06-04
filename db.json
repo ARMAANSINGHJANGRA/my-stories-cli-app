@@ -1,0 +1,94 @@
+{
+  "stories": [
+    {
+      "tags": [
+        "sci-fi",
+        " coffee",
+        " octopus"
+      ],
+      "content": "A sentient octopus opens a coffee shop on Mars, but struggles with intergalactic taxes and espresso calibration.",
+      "id": 1744745890019
+    },
+    {
+      "tags": [
+        "weird",
+        " gravity",
+        " mystery"
+      ],
+      "content": "Every Tuesday, gravity reverses in one small town. The mayor insists it's a marketing stunt—scientists disagree.",
+      "id": 1744745890235
+    },
+    {
+      "tags": [
+        "time-travel",
+        " cooking",
+        " dinosaurs"
+      ],
+      "content": "A disgraced time-traveling chef tries to win back their Michelin star in the year 3022 using dinosaur eggs.",
+      "id": 1744745890457
+    },
+    {
+      "tags": [
+        "aliens",
+        " memes",
+        " religion"
+      ],
+      "content": "Aliens mistake Earth’s internet memes for sacred texts and begin a religion based on Shrek.",
+      "id": 1744745890682
+    },
+    {
+      "tags": [
+        "horror",
+        " wishes",
+        " vending-machine"
+      ],
+      "content": "A haunted vending machine starts granting wishes, but only in exchange for toenail clippings.",
+      "id": 1744745890905
+    },
+    {
+      "tags": [
+        "romance",
+        " weather",
+        " clouds"
+      ],
+      "content": "Two clouds fall in love during a thunderstorm and start a podcast on long-distance relationships.",
+      "id": 1744745891124
+    },
+    {
+      "tags": [
+        "fantasy",
+        " punk",
+        " shadows"
+      ],
+      "content": "A group of rebellious shadows separate from their owners and form a punk rock band.",
+      "id": 1744745891342
+    },
+    {
+      "tags": [
+        "satire",
+        " space",
+        " legal-drama"
+      ],
+      "content": "The moon applies for citizenship on Earth and sues the sun for emotional distress.",
+      "id": 1744745891553
+    },
+    {
+      "tags": [
+        "absurd",
+        " laundry",
+        " poetry"
+      ],
+      "content": "A forgotten sock in the dryer becomes self-aware and starts writing poetry about loneliness.",
+      "id": 1744745891770
+    },
+    {
+      "tags": [
+        "mystery",
+        " economics",
+        " rubber-duck"
+      ],
+      "content": "A giant rubber duck floats into a city harbor, causing an economic boom and spiritual awakening.",
+      "id": 1744745891977
+    }
+  ]
+}

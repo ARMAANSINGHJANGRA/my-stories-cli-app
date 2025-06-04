@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: monospace;
+      background-color: #222222;
+      color: white;
+      padding: 20px;
+
+      @media screen and (min-width: 450px) {
+        padding: 40px;
+      }
+    }
+
+    h1 {
+      font-size: 60px;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    .stories-container {
+      display: grid;
+      grid-template-columns: 1fr;
+      /* justify-items: center; */
+      gap: 20px;
+
+      @media screen and (min-width: 600px) {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      @media screen and (min-width: 1000px) {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      /* @media screen and (min-width: 1200px) {
+            grid-template-columns: repeat(4, 1fr);
+          } */
+    }
+
+    .story {
+      display: flex;
+      flex-direction: column;
+      row-gap: 10px;
+      border: #169976 1px solid;
+      padding: 15px;
+    }
+
+    .story__title {
+      font-size: 25px;
+    }
+
+    .story__tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+
+    .tag {
+      font-size: 15px;
+      background-color: #169976;
+      padding: 5px 10px;
+      text-transform: uppercase;
+    }
+  </style>
+  <title>My Stories</title>
+</head>
+
+<body>
+  <h1>My Stories</h1>
+  <main class="stories-container">{{ stories }}</main>
+</body>
+
+</html>
